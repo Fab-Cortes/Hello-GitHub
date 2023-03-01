@@ -1,6 +1,7 @@
 # :octocat:Mentoria- Trabajando con GitHub:octocat: :woman_technologist:
 
-### <sub> Hola padawands de Hackwomen.dev, este es un reporsitorio con herramientas que les pueden ayudar a seguir aprendiendo y practicar sobre el uso de GitHub, disfrútenlo mucho:bangbang::smiling_face_with_three_hearts:</sub>
+### <sub> Hola padawands de Hackwomen.dev, este es un reporsitorio con herramientas que les pueden ayudar a seguir aprendiendo y practicar sobre el uso de GitHub, disfrútenlo mucho:bangbang::smiling_face_with_three_hearts:</sub> 
+![image](https://user-images.githubusercontent.com/98186337/222253410-4197ec1c-7c86-4f82-ba23-c924da73168d.png)
 
 ## ¿Qué aprenderás en la mentoría?
 - ¿Que es GitHub? (visto en la mentoria):bowtie:
