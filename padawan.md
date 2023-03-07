@@ -3,4 +3,4 @@
 * Fab-Cortes
 * _Lucero Luciano (Luz)_ 💜👩‍💻✨
 * ***Abril Alcántara* 😄❤️**
-* _Laura Moctezuma (lau-briel)_ 🧬🧪🧫💜💕✨
+* *Laura Moctezuma (lau-briel)* 🧬🧪🧫💜💕✨
