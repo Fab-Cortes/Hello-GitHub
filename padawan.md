@@ -4,3 +4,4 @@
 * _Lucero Luciano (Luz)_ 💜👩‍💻✨
 * ***Abril Alcántara* 😄❤️**
 * ***Laura Moctezuma (lau-briel)*** 🧬🧪🧫💜💕✨
+* **_Marisol Perez Barrientos_** :speak_no_evil: :star_struck: :revolving_hearts: :woman_technologist:
